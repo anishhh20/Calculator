@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anishhh20/Calculator/static/css/main.75c76bdc.css",
+    "main.js": "/anishhh20/Calculator/static/js/main.eb7500d2.js",
+    "index.html": "/anishhh20/Calculator/index.html",
+    "main.75c76bdc.css.map": "/anishhh20/Calculator/static/css/main.75c76bdc.css.map",
+    "main.eb7500d2.js.map": "/anishhh20/Calculator/static/js/main.eb7500d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c76bdc.css",
+    "static/js/main.eb7500d2.js"
+  ]
+}
